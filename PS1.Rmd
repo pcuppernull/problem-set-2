@@ -14,7 +14,7 @@ Considering the four provided theories, different social policies would be appro
 
 For Theory II, which describes deviant aggressive behavior as "a symbolic expression of hostility toward personal authority figures", it would be necessary to first allocate resources towards a public survey to better understand personal sources of frustration -- per the theory, these sources of frustration lead to the deviant aggressive behavior. Once these sources are identified, I would direct public resources towards addressing them. As an example, if wage insecurity was discovered to be a source of frustration, a minimum wage increase could potentially help alleviate deviant aggressive behavior.
 
-In the case of Theory III, where deviant aggressive behavior is "the rational action of oppressed individuals",  social policies that limit the degree to which people feel oppressed would be appropriate. For example, the implementation of more frequent and robust community town hall events could improve the degree to which individual voices are heard in local politics. If individuals feel less oppressed once given a stronger voice in politics, then according to the theory, deviant aggressive behavior should decrease. Similar reforms that bolster  the voice on the individual in local politics could also be useful -- for example, local governments could provide extra transportation from low income neighborhoods to polling stations on election day.
+In the case of Theory III, where deviant aggressive behavior is "the rational action of oppressed individuals",  social policies that limit the degree to which people feel oppressed would be appropriate. For example, the implementation of more frequent and robust community town hall events could improve the degree to which individual voices are heard in local politics. If individuals feel less oppressed once given a stronger voice in politics, then according to the theory, deviant aggressive behavior should decrease. Similar reforms that bolster  the voice of the individual in local politics could also be useful -- for example, local governments could provide extra transportation from low income neighborhoods to polling stations on election day.
 
 Finally, in Theory IV, where deviant aggressive behavior is "a social role" and "individuals are socialized into the role through contact with a deviant subculture", it would be appropriate to implement policies which allow for the productive expression of deviant behavior and the deviant subculture. One example of such a reform would be to implement graffiti walls in public parks where graffiti artists can legally paint, effectively celebrating grafitti rather than punishing it (a policy along these lines was implemented in Venice Beach, California, and the graffiti walls are now a popular tourist attraction). Beyond this, local governments could sponsor youth sports tournaments to allow individuals to compete in a productive environment.
 
@@ -36,7 +36,7 @@ People believe that they produce higher quality work under pressure. Having a li
 
   -  Model B predictions: 
     1. People tend to save less money than they otherwise could. Here, I assume that spending money is more enjoyable than saving money. Money is spent as a means of acheiving immediate gratification.
-    2. Individuals with dietary restrictions sometimes eat foods known to cause them harm. For exakple, someone who is lactose intolerant might occassionally eat pizza -- the immediate gratification that comes from eating the pizza is prioritized over the later consequences of doing so.
+    2. Individuals with dietary restrictions sometimes eat foods known to cause them harm. For example, someone who is lactose intolerant might occassionally eat pizza -- the immediate gratification that comes from eating the pizza is prioritized over the later consequences of doing so.
   
   -  Model C predictions: 
     1. People perform complicated tasks in front of others. I assume that the presence of observers raises the stakes of a given action -- examples of this might include sporting events or theatrical performances. 
@@ -60,7 +60,7 @@ People believe that they produce higher quality work under pressure. Having a li
   
   d. The variance of the error terms is extremely high.
   
-    Inflexible. Flexible models would attempt to explain the high variance of the error terms as part of the model parameters. This would detract from the ability to model the true data generating process.
+    Inflexible. Flexible models would attempt to explain the high variance of the error terms as part of the model. This would detract from the ability to model the true data generating process.
   
 ### 2. Bias-variance: Explain why each of the five curves has the shape it has.
 
